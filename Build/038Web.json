@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Unity-WebXR-Export",
+"productVersion": "2.0",
+"dataUrl": "038Web.data.unityweb",
+"wasmCodeUrl": "038Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "038Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.24f1"
+}
