@@ -160,7 +160,7 @@ a:link, a:visited {
 .panel {
   background: #fff;
   display: none;
-  max-width: 50%;
+  max-width: 70%;
   padding: 10px 30px;
   pointer-events: all;
 }
